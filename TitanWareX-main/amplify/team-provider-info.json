@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-loginapp-dev-220828-authRole",
+      "UnauthRoleArn": "arn:aws:iam::531566089401:role/amplify-loginapp-dev-220828-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::531566089401:role/amplify-loginapp-dev-220828-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-loginapp-dev-220828-deployment",
+      "UnauthRoleName": "amplify-loginapp-dev-220828-unauthRole",
+      "StackName": "amplify-loginapp-dev-220828",
+      "StackId": "arn:aws:cloudformation:us-east-1:531566089401:stack/amplify-loginapp-dev-220828/d671e3d0-bef0-11ed-8752-0e44baba313f",
+      "AmplifyAppId": "d1km1yj4312bd9"
+    },
+    "categories": {
+      "auth": {
+        "loginappb8128186": {},
+        "titanlogin": {}
+      },
+      "api": {
+        "loginapp": {}
+      },
+      "storage": {
+        "s386bffc77": {}
+      }
+    }
+  }
+}

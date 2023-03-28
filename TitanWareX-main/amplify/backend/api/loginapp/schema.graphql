@@ -1,0 +1,27 @@
+type Subscribe @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Email: AWSEmail!
+}
+
+type Account @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  email: AWSEmail!
+  username: String!
+  phoneNum: String
+  first: String
+  last: String
+}
+
+type Todo @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Note @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  description: String
+  image: String
+}
+ 

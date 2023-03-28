@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "loginapp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-03-25T22:23:30.357Z"
+}

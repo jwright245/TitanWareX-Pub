@@ -1,0 +1,14 @@
+{
+  "resourceName": "s386bffc77",
+  "policyUUID": "86bffc77",
+  "bucketName": "loginapp39308056049040adaa3b4e2c2330ebdb",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
